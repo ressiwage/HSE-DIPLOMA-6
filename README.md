@@ -78,5 +78,14 @@ S3_SECRET_TOKEN="данные для s3"
 ## Ссылки
 
 Полный и финальный текст работы: https://www.hse.ru/edu/vkr/1160980265
+
 [Текст работы в markdown (ru)](https://github.com/ressiwage/UFAV1VDS/blob/master/docs/md_version/rep.md)
+
 [Текст работы в word](docs/stage9_defend/отчёт%20финальный.docx)
+
+
+[тест1](docs/md_version/rep.md)
+
+[тест2](docs/md_version/rep.md#%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
+
+[тест3](docs/md_version/rep.md#реализация)

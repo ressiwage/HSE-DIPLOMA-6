@@ -14,3 +14,4 @@ code/_shared/_common/db/s3_config.py
 **/*.wmv
 docs/stage9_defend/видео_с_главами.mp4
 docs/stage9_defend/*.pptx
+docs/stage9_defend/флешка/*

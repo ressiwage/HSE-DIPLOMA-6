@@ -93,3 +93,6 @@ S3_SECRET_TOKEN="данные для s3"
 [Текст работы в word](docs/stage9_defend/отчёт%20финальный.docx)
 
 [Текст работы в pdf](docs/stage9_defend/отчёт%20финальный.pdf)
+
+## Стек
+Python, C, Makefile, FFMPEG, Redis, Ceph, PostgreSQL, Fastapi, Uvicorn, NATS, Websockets, SQLAlchemy, React, WASM, NATS Jetstream, DAV1D, Docker (swarm, compose), Hyperfine, Perf, Vtune, Cmake, Meson, Ninja, Valgrind, Callgrind

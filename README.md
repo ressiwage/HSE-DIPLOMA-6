@@ -1,5 +1,5 @@
-# UFAV1DS
-## Ultra Fast AV1 Decoding System
+# **UFAV1DS**: ***U***ltra ***F***ast ***AV1*** ***D***ecoding ***S***ystem
+---
 <img width="1024" height="501" alt="image" src="https://github.com/user-attachments/assets/40f51cfe-536c-4069-a8f2-c0d23d7ebefb" />
 
 ## Что это
@@ -74,10 +74,11 @@ S3_SECRET_TOKEN="данные для s3"
 -  если серверов больше чем 2 то сами там настраивайте всё
 - возможно где-то я забыл почистить следы от своих серверов. если не запускается -- ищите по   'msk-1-vm-zcps', '194.87.131.81', '7624415-eg826155.twc1.net', '72.56.39.104' и меняйте на свои.
 - можно запустить и локально, на одном сервере. для этого выполните make up или docker compose up 
+---
 
 ## Ссылки
 
-[Полный и финальный текст работы на сайте вуза](https://www.hse.ru/edu/vkr/1160980265)
+[Полный и финальный текст работы на сайте вуза с оценкой и аннотацией](https://www.hse.ru/edu/vkr/1160980265)
 
 [Текст работы в markdown (ru)](docs/md_version/rep.md)
 
